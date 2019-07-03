@@ -1,0 +1,21 @@
+#showcase{
+    padding-top: 20px;
+}
+#showcase h1,
+#showcase p{
+    line-height: 1.2em;
+}
+#Home-info .info-detail{
+    padding-top: 20px;
+}
+#Home-info .info-detail h2{
+    margin-bottom: 10px;
+}
+#Home-info .info-detail a{
+    margin-top: 15px;
+}
+
+/* About */
+#text-info h1{
+    font-size: 35px;
+}
